@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Roma/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/D:/projects/coursera/recfun/}root/products {file:/D:/projects/coursera/recfun/}root/test:products
+submit rroman@online.ua uN7nSH1njyRQzVRs
+submit rroman@online.ua EW64oxkIxfhsj7SM

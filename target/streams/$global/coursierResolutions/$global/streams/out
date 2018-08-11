@@ -1,0 +1,18 @@
+coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+    org.scalatest:scalatest_2.12:2.2.4:
+        not found:
+            C:\Users\Roma\.ivy2\local\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+            https://repo1.maven.org/maven2/org/scalatest/scalatest_2.12/2.2.4/scalatest_2.12-2.2.4.pom
+            C:\Users\Roma\.activator\repository\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+            C:\Users\Roma\Desktop\typesafe-activator-1.3.10\activator-dist-1.3.10\repository\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+            http://repo.typesafe.com/typesafe/releases/org/scalatest/scalatest_2.12/2.2.4/scalatest_2.12-2.2.4.pom
+            http://repo.typesafe.com/typesafe/ivy-releases/org.scalatest/scalatest_2.12/2.2.4/ivys/ivy.xml
+[error] (*:coursierResolutions) coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+[error]     org.scalatest:scalatest_2.12:2.2.4:
+[error]         not found:
+[error]             C:\Users\Roma\.ivy2\local\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+[error]             https://repo1.maven.org/maven2/org/scalatest/scalatest_2.12/2.2.4/scalatest_2.12-2.2.4.pom
+[error]             C:\Users\Roma\.activator\repository\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+[error]             C:\Users\Roma\Desktop\typesafe-activator-1.3.10\activator-dist-1.3.10\repository\org.scalatest\scalatest_2.12\2.2.4\ivys\ivy.xml
+[error]             http://repo.typesafe.com/typesafe/releases/org/scalatest/scalatest_2.12/2.2.4/scalatest_2.12-2.2.4.pom
+[error]             http://repo.typesafe.com/typesafe/ivy-releases/org.scalatest/scalatest_2.12/2.2.4/ivys/ivy.xml
